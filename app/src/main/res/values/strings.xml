@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Image Gallery</string>
+    <string name="no_connection">No connection</string>
+    <string name="no_data">No data</string>
+    <string name="user_id">user id: </string>
+    <string name="id">album id: </string>
+</resources>
